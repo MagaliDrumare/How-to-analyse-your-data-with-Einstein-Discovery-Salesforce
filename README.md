@@ -25,12 +25,12 @@
 #### Play an executive summary 
 ```
 -Play Summary launch an automatic analysis. 
--Personalize the executive summary : check discovery mode 
+-Personalize a speaking executive summary : check discovery mode 
 ```
 
 #### Export the Analysis
 ```
--Export into a word and power point presentation. 
--ppt generated with speaking notes. 
+-Export into word and power point presentations. 
+-ppt and word generated with 'speaking' notes. 
 -Export R Code. 
 ```
