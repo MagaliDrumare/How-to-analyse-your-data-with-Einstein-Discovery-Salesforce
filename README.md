@@ -6,7 +6,7 @@
 * Concept de base de Eistein Discovery : http://sforce.co/2k5Mj6w
 * Einstein Discovery access : https://trailhead.sdd.salesforce.com
 
-# Main functionalities of Einstein Discovery (cf. screen shot in the code directory)
+# Main functionalities of Einstein Discovery (cf. screenshots in the code directory)
 
 #### Data Importation: http://sforce.co/2ADZToE
 ```
