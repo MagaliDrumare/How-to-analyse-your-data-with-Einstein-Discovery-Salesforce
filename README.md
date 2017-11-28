@@ -1,5 +1,5 @@
 # What is Eistein Discovery ? 
-* Einstein Discovery is AI-powered analytics that enables business users to automatically discover relevant patterns based on their data – without having to build sophisticated data models.
+* Einstein Discovery is AI-powered analytics that enables business users to automatically discover relevant patterns based on their data – without having to build sophisticated data models. https://trailhead.sdd.salesforce.com
 
 * Einstein Discovery Demo : https://youtu.be/qsYFNh-39_Q
 * Explore Data and Take Action with Einstein Analytics : https://help.salesforce.com/articleView?id=bi.htm&type=0
